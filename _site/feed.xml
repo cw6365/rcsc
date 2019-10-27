@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Long Haul</title>
-    <description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
-    <link>http://brianmaierjr.github.com/long-haul/</link>
-    <atom:link href="http://brianmaierjr.github.com/long-haul/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Oct 2019 22:42:28 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 22:42:28 +0000</lastBuildDate>
+    <title>RCSC Fitness Centre</title>
+    <description>Hireable strength and conditioning fitness centre</description>
+    <link>http://www.rcsc.fitness/</link>
+    <atom:link href="http://www.rcsc.fitness/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Oct 2019 23:07:44 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 23:07:44 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       
@@ -78,8 +78,8 @@
 </description>
         
         <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</guid>
+        <link>http://www.rcsc.fitness/blog/example-post-formatting/</link>
+        <guid isPermaLink="true">http://www.rcsc.fitness/blog/example-post-formatting/</guid>
         
         
       </item>
@@ -106,8 +106,8 @@
 </description>
         
         <pubDate>Sun, 14 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/featured-image/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/featured-image/</guid>
+        <link>http://www.rcsc.fitness/blog/featured-image/</link>
+        <guid isPermaLink="true">http://www.rcsc.fitness/blog/featured-image/</guid>
         
         
       </item>
@@ -135,8 +135,8 @@
 </description>
         
         <pubDate>Sat, 13 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/code-snippet/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/code-snippet/</guid>
+        <link>http://www.rcsc.fitness/blog/code-snippet/</link>
+        <guid isPermaLink="true">http://www.rcsc.fitness/blog/code-snippet/</guid>
         
         
       </item>
@@ -173,8 +173,8 @@
 </description>
         
         <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</guid>
+        <link>http://www.rcsc.fitness/blog/figure-with-caption/</link>
+        <guid isPermaLink="true">http://www.rcsc.fitness/blog/figure-with-caption/</guid>
         
         
       </item>
@@ -203,8 +203,8 @@
 </description>
         
         <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/image-in-post/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/image-in-post/</guid>
+        <link>http://www.rcsc.fitness/blog/image-in-post/</link>
+        <guid isPermaLink="true">http://www.rcsc.fitness/blog/image-in-post/</guid>
         
         
       </item>
@@ -231,8 +231,8 @@
 </description>
         
         <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/test-post/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/test-post/</guid>
+        <link>http://www.rcsc.fitness/blog/test-post/</link>
+        <guid isPermaLink="true">http://www.rcsc.fitness/blog/test-post/</guid>
         
         
       </item>
