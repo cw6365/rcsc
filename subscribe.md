@@ -4,7 +4,6 @@ title: Register for updates
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Subscribe</h1>
   <div class="contactContent">
     <p class="intro">Register for early access, updates and offers.</p>
     <p>The centre will be suitable for

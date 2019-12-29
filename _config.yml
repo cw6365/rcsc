@@ -3,8 +3,8 @@ description: RCSC will provide a large, spacious training area, surrounded by a 
 
 url: http://www.rcsc.fitness
 baseurl: ""
-paginate_path: "updates/page:num/"
-permalink: updates/:title/
+paginate_path: "updates/page:num"
+permalink: updates/:title
 
 markdown: kramdown
 highlighter: rouge
@@ -13,7 +13,7 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /
   - title: Updates
     url: /updates
   - title: Subscribe

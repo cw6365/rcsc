@@ -4,7 +4,6 @@ title: RCSC fitness updates and progress
 ---
 
 <div id="articles">
-  <h1>Updates</h1>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
