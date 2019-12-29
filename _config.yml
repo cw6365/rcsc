@@ -1,10 +1,10 @@
 title: RCSC Fitness Centre
-description: Hireable strength and conditioning fitness centre
+description: RCSC will provide a large, spacious training area, surrounded by a range of core and functional training equipment.
 
 url: http://www.rcsc.fitness
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "updates/page:num/"
+permalink: updates/:title/
 
 markdown: kramdown
 highlighter: rouge
@@ -14,15 +14,13 @@ paginate: 5
 navigation:
   - title: Home
     url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: Updates
+    url: /updates
+  - title: Subscribe
+    url: /subscribe
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  facebook: rcscfitness
+  email: studio@rcsc.fitness
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-155134939-1"

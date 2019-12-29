@@ -1,26 +1,28 @@
 ---
 layout: default
-title: Long Haul
+title: New functional fitness gym covering Cleethorpes and Grimsby | RCSC Fitness
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
+<div class="post">
+	<h1 class="pageTitle">Sports conditioning centre</h1>
+  <h3>New functional fitness gym opening to the public in 2020 and covering the towns of Cleethorpes and Grimsby. <br /><br /><a href="/subscribe">Register for early access, updates and offers.</a></h3>
+	<img src="{{ '/assets/img/RCSC-3D.jpg' | prepend: site.baseurl }}" alt="">
+	<p>Traditional gyms are dominated by cardio and strength machines, often leaving a small space in the corner for free training. With the rapid rise of functional fitness, stretching and sports conditioning, RCSC will provide a large, spacious training area, surrounded by a range of core and functional training equipment.</p>
+	<h2>Our Equipment</h2>
+	<ul>
+		<li>Plyometric boxes</li>
+		<li>Battles ropes</li>
+		<li>Fintess tyres</li>
+  		<li>Weight vests</li>
+  		<li>Prowler sledge and sprint track</li>
+  		<li>Boxing bags and equipment</li>
+  		<li>Foam rollers and stretching aids</li>
+      <li>Kettle bells and dumbbells</li>
+  		<li>Resistence bands</li>
+      <li>Squat rack and plates</li>
+      <li>Slam, wall and medicine balls</li>
+      <li>Bulgarian bags, squat bags</li>
+      <li>Fitness decks and sports mats</li>
+      <li>Pull up bars and TRX suspension trainers</li>
+  	</ul>
 </div>
